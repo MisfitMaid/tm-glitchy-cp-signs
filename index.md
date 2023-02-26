@@ -4,81 +4,81 @@
 
 ### smpte/GPS.webm
 
-<video control loop src='smpte/GPS.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/GPS.webm'></video>
 
 ### smpte/cp_01.webm
 
-<video control loop src='smpte/cp_01.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_01.webm'></video>
 
 ### smpte/cp_02.webm
 
-<video control loop src='smpte/cp_02.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_02.webm'></video>
 
 ### smpte/cp_03.webm
 
-<video control loop src='smpte/cp_03.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_03.webm'></video>
 
 ### smpte/cp_04.webm
 
-<video control loop src='smpte/cp_04.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_04.webm'></video>
 
 ### smpte/cp_05.webm
 
-<video control loop src='smpte/cp_05.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_05.webm'></video>
 
 ### smpte/cp_06.webm
 
-<video control loop src='smpte/cp_06.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_06.webm'></video>
 
 ### smpte/cp_07.webm
 
-<video control loop src='smpte/cp_07.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_07.webm'></video>
 
 ### smpte/cp_08.webm
 
-<video control loop src='smpte/cp_08.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_08.webm'></video>
 
 ### smpte/cp_09.webm
 
-<video control loop src='smpte/cp_09.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_09.webm'></video>
 
 ### smpte/cp_10.webm
 
-<video control loop src='smpte/cp_10.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_10.webm'></video>
 
 ### smpte/cp_11.webm
 
-<video control loop src='smpte/cp_11.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_11.webm'></video>
 
 ### smpte/cp_12.webm
 
-<video control loop src='smpte/cp_12.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_12.webm'></video>
 
 ### smpte/cp_13.webm
 
-<video control loop src='smpte/cp_13.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_13.webm'></video>
 
 ### smpte/cp_14.webm
 
-<video control loop src='smpte/cp_14.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_14.webm'></video>
 
 ### smpte/cp_15.webm
 
-<video control loop src='smpte/cp_15.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_15.webm'></video>
 
 ### smpte/cp_16.webm
 
-<video control loop src='smpte/cp_16.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/cp_16.webm'></video>
 
 ### smpte/danger.webm
 
-<video control loop src='smpte/danger.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/danger.webm'></video>
 
 ### smpte/finish.webm
 
-<video control loop src='smpte/finish.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/finish.webm'></video>
 
 ### smpte/start.webm
 
-<video control loop src='smpte/start.webm'></video>
+<video autoplay='autoplay' controls='controls' muted='muted' loop src='smpte/start.webm'></video>
 
