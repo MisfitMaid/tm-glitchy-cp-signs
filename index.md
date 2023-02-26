@@ -2,43 +2,83 @@
 
 ## SMPTE color bars (kind of)
 
-![smpte/GPS.webm](smpte/GPS.webm)
+### smpte/GPS.webm
 
-![smpte/cp_01.webm](smpte/cp_01.webm)
+<video control loop src='smpte/GPS.webm' />
 
-![smpte/cp_02.webm](smpte/cp_02.webm)
+### smpte/cp_01.webm
 
-![smpte/cp_03.webm](smpte/cp_03.webm)
+<video control loop src='smpte/cp_01.webm' />
 
-![smpte/cp_04.webm](smpte/cp_04.webm)
+### smpte/cp_02.webm
 
-![smpte/cp_05.webm](smpte/cp_05.webm)
+<video control loop src='smpte/cp_02.webm' />
 
-![smpte/cp_06.webm](smpte/cp_06.webm)
+### smpte/cp_03.webm
 
-![smpte/cp_07.webm](smpte/cp_07.webm)
+<video control loop src='smpte/cp_03.webm' />
 
-![smpte/cp_08.webm](smpte/cp_08.webm)
+### smpte/cp_04.webm
 
-![smpte/cp_09.webm](smpte/cp_09.webm)
+<video control loop src='smpte/cp_04.webm' />
 
-![smpte/cp_10.webm](smpte/cp_10.webm)
+### smpte/cp_05.webm
 
-![smpte/cp_11.webm](smpte/cp_11.webm)
+<video control loop src='smpte/cp_05.webm' />
 
-![smpte/cp_12.webm](smpte/cp_12.webm)
+### smpte/cp_06.webm
 
-![smpte/cp_13.webm](smpte/cp_13.webm)
+<video control loop src='smpte/cp_06.webm' />
 
-![smpte/cp_14.webm](smpte/cp_14.webm)
+### smpte/cp_07.webm
 
-![smpte/cp_15.webm](smpte/cp_15.webm)
+<video control loop src='smpte/cp_07.webm' />
 
-![smpte/cp_16.webm](smpte/cp_16.webm)
+### smpte/cp_08.webm
 
-![smpte/danger.webm](smpte/danger.webm)
+<video control loop src='smpte/cp_08.webm' />
 
-![smpte/finish.webm](smpte/finish.webm)
+### smpte/cp_09.webm
 
-![smpte/start.webm](smpte/start.webm)
+<video control loop src='smpte/cp_09.webm' />
+
+### smpte/cp_10.webm
+
+<video control loop src='smpte/cp_10.webm' />
+
+### smpte/cp_11.webm
+
+<video control loop src='smpte/cp_11.webm' />
+
+### smpte/cp_12.webm
+
+<video control loop src='smpte/cp_12.webm' />
+
+### smpte/cp_13.webm
+
+<video control loop src='smpte/cp_13.webm' />
+
+### smpte/cp_14.webm
+
+<video control loop src='smpte/cp_14.webm' />
+
+### smpte/cp_15.webm
+
+<video control loop src='smpte/cp_15.webm' />
+
+### smpte/cp_16.webm
+
+<video control loop src='smpte/cp_16.webm' />
+
+### smpte/danger.webm
+
+<video control loop src='smpte/danger.webm' />
+
+### smpte/finish.webm
+
+<video control loop src='smpte/finish.webm' />
+
+### smpte/start.webm
+
+<video control loop src='smpte/start.webm' />
 
