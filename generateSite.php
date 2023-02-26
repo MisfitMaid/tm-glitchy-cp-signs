@@ -5,7 +5,7 @@ function signDirTpl(string $dir): string {
 	foreach(glob($dir . "/*") as $file) {
 		if (str_ends_with($file, ".loc")) continue;
 		
-		$ret .= sprintf("### %s\n\n<video control loop src='%s' />\n\n", $file, $file);
+		$ret .= sprintf("### %s\n\n<video control loop src='%s'></video>\n\n", $file, $file);
 		
 	}
 	return $ret;
